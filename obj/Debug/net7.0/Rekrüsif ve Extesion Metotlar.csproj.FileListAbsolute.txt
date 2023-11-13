@@ -1,0 +1,14 @@
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Rekrüsif ve Extesion Metotlar\bin\Debug\net7.0\Rekrüsif ve Extesion Metotlar.exe
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Rekrüsif ve Extesion Metotlar\bin\Debug\net7.0\Rekrüsif ve Extesion Metotlar.deps.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Rekrüsif ve Extesion Metotlar\bin\Debug\net7.0\Rekrüsif ve Extesion Metotlar.runtimeconfig.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Rekrüsif ve Extesion Metotlar\bin\Debug\net7.0\Rekrüsif ve Extesion Metotlar.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Rekrüsif ve Extesion Metotlar\bin\Debug\net7.0\Rekrüsif ve Extesion Metotlar.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Rekrüsif ve Extesion Metotlar\obj\Debug\net7.0\Rekrüsif ve Extesion Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Rekrüsif ve Extesion Metotlar\obj\Debug\net7.0\Rekrüsif ve Extesion Metotlar.AssemblyInfoInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Rekrüsif ve Extesion Metotlar\obj\Debug\net7.0\Rekrüsif ve Extesion Metotlar.AssemblyInfo.cs
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Rekrüsif ve Extesion Metotlar\obj\Debug\net7.0\Rekrüsif ve Extesion Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Rekrüsif ve Extesion Metotlar\obj\Debug\net7.0\Rekrüsif ve Extesion Metotlar.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Rekrüsif ve Extesion Metotlar\obj\Debug\net7.0\refint\Rekrüsif ve Extesion Metotlar.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Rekrüsif ve Extesion Metotlar\obj\Debug\net7.0\Rekrüsif ve Extesion Metotlar.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Rekrüsif ve Extesion Metotlar\obj\Debug\net7.0\Rekrüsif ve Extesion Metotlar.genruntimeconfig.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Rekrüsif ve Extesion Metotlar\obj\Debug\net7.0\ref\Rekrüsif ve Extesion Metotlar.dll
