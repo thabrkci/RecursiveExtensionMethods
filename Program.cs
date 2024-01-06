@@ -1,54 +1,50 @@
-﻿namespace Rekrüsif_ve_Extesion_Metotlar;
+﻿using System;
 
-class Program
+namespace RecursiveExtensionMethods
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("###Welcome Method's###");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("### Welcome to Methods ###");
 
-        //Rekrüsif Özyinelemi Metot
-        //3^4 3*3*3*3
-        int result =1;
-        for (int i = 1; i <5; i++)
-        result = result *3;
-        Console.WriteLine(result);
+            // Recursive Method
+            // 3^4 = 3 * 3 * 3 * 3
+            int result = Power(3, 4);
+            Console.WriteLine(result);
 
-        kök instance = new ();
-        Console.WriteLine( instance.brave (3,4) );
+            // Extension Method Example
+            SampleClass sampleObject = new SampleClass();
+            sampleObject.DisplayMessage();
+        }
 
+        // Recursive Method to calculate the power of a number
+        static int Power(int baseNumber, int exponent)
+        {
+            if (exponent < 2)
+                return baseNumber;
 
-            
-
-
-
-
-        
+            return Power(baseNumber, exponent - 1) * baseNumber;
+        }
     }
 
- }
+    // Sample class for extension method demonstration
+    public class SampleClass
+    {
+        public void DisplayMessage()
+        {
+            Console.WriteLine("This is a sample class method.");
+        }
+    }
 
-
- public class kök
-{
-public int brave (int number , int number1)
-{
-    if (number1<2)
-      return number;
-    return brave (number, number1-1)* number;
-}
-/*Brave (3,4)
-Brave(3,3)*3
-Brave(3,2)*3 *3
-Brave(3-1)*3 *3 *3
-3*3*3*3= 3^4
-
-
-*/
-}
-
-
-public class Extension{
-
-
-    
+    // Extension Method Class (if you decide to add extension methods)
+    public static class ExtensionMethods
+    {
+        // Example of an extension method
+        // You can add extension methods to existing classes without modifying them.
+        public static void ExtendedMethod(this SampleClass obj)
+        {
+            Console.WriteLine("This is an extension method.");
+        }
+    }
 }
